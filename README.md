@@ -1,8 +1,9 @@
-# React + Vite
+<h1>Digital clock project coded with React and Tailwind</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p>A digital clock project coded with React and Tailwind.</p>
 
-Currently, two official plugins are available:
+<p>This project is live at: <a href="https://enesburakdikici.com/react-tailwind-digital-clock/">https://enesburakdikici.com/react-tailwind-digital-clock/</a></p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h2>Screenshots</h2>
+
+<img width="1467" alt="Ekran Resmi 2025-01-29 02 42 48" src="https://github.com/user-attachments/assets/d4bb296c-d7c0-4744-8e7a-d95e039e0531" />
